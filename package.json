@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "aws-amplify": "^6.6.6",
+    "get-tsconfig": "^4.13.0",
     "vue": "^3.4.21"
   },
   "devDependencies": {
@@ -24,11 +25,11 @@
     "aws-cdk": "^2.137.0",
     "aws-cdk-lib": "^2.137.0",
     "constructs": "^10.3.0",
-    "esbuild": "^0.27.1",
+    "esbuild": "^0.20.2",
     "npm-run-all2": "^6.1.2",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5",
-    "vite": "^7.2.6",
+    "vite": "^5.4.10",
     "vue-tsc": "^2.0.11"
   }
 }
