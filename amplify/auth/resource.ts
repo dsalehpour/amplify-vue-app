@@ -7,5 +7,6 @@ import { defineAuth } from '@aws-amplify/backend';
 export const auth = defineAuth({
   loginWith: {
     email: true,
+      otpLogingn: true, //Ennables emailbased one time password (OTP) login
   },
 });
