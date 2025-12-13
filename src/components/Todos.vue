@@ -47,7 +47,7 @@ function deleteTodo(id: string) {
       </li>
     </ul>
     <div>
-      🥳 App successfully hosted. Try creating a new todo.
+      App successfully hosted. Try creating a new todo.
       <br />
     </div>
   </main>
